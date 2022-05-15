@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trainer</string>
+    <string name="hello_app_text">Тренажёр ЕГЭ по информатике</string>
+    <string name="Text_of_button">Задания</string>
+</resources>
